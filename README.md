@@ -37,3 +37,12 @@ Also, there's never a chance of the person falling asleep before mowing the yard
 - Think about how random number generation works
 - Before moving onto the next callback function, test to see if you're getting the expected results.
 This may include increasing or decreasing the likelihood that a person will fall asleep.
+
+## Update to Promises
+
+- Navigate to the your summer-chores project.
+- Inside the project, create a JavaScript file named promiseVersion.js
+- Inside the file, write the same program as before, but using promises instead of callback functions.
+- Update your doSummerChores function to chain your promises
+- Update your README so that it aligns with what you've updated during this assignment.
+- When finished, push your changes to your repository and submit the link to your GitHub repository
