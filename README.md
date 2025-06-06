@@ -46,3 +46,11 @@ This may include increasing or decreasing the likelihood that a person will fall
 - Update your doSummerChores function to chain your promises
 - Update your README so that it aligns with what you've updated during this assignment.
 - When finished, push your changes to your repository and submit the link to your GitHub repository
+
+## Update to async/await
+
+- Navigate to the your summer-chores project.
+- Inside the project, create a JavaScript file named asyncAwaitVersion.js
+- Inside the file, write the same program as before, but update the doSummerChores function to use async and await instead of chaining your promises.
+- Update your README so that it aligns with what you've updated during this assignment.
+- When finished, push your changes to your repository and submit the link to your GitHub repository
